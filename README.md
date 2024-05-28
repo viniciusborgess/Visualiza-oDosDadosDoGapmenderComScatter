@@ -1,0 +1,1 @@
+Neste gráfico de dispersão, cada país é representado por um ponto. A posição de cada ponto no gráfico é determinada pelo número total de mortes infantis em 1985 (eixo x) e em 2008 (eixo y). O tamanho do ponto indica o número de mortes infantis em 1995, enquanto a cor do ponto representa a variação no número de mortes infantis entre 1995 e 2005.
